@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/expo-expense-app/static/js/app.76b8fb83.chunk.js",
+    "app.js.map": "/expo-expense-app/static/js/app.76b8fb83.chunk.js.map",
+    "runtime~app.js": "/expo-expense-app/static/js/runtime~app.806346c1.js",
+    "runtime~app.js.map": "/expo-expense-app/static/js/runtime~app.806346c1.js.map",
+    "static/js/2.b308e05e.chunk.js": "/expo-expense-app/static/js/2.b308e05e.chunk.js",
+    "static/js/2.b308e05e.chunk.js.map": "/expo-expense-app/static/js/2.b308e05e.chunk.js.map",
+    "fonts/AntDesign.ttf": "/expo-expense-app/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/expo-expense-app/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/expo-expense-app/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/expo-expense-app/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/expo-expense-app/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/expo-expense-app/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/expo-expense-app/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/expo-expense-app/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/expo-expense-app/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/expo-expense-app/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/expo-expense-app/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/expo-expense-app/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/expo-expense-app/favicon-16.png",
+    "favicon-32.png": "/expo-expense-app/favicon-32.png",
+    "favicon.ico": "/expo-expense-app/favicon.ico",
+    "index.html": "/expo-expense-app/index.html",
+    "manifest.json": "/expo-expense-app/manifest.json",
+    "serve.json": "/expo-expense-app/serve.json",
+    "static/js/2.b308e05e.chunk.js.LICENSE.txt": "/expo-expense-app/static/js/2.b308e05e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.806346c1.js",
+    "static/js/2.b308e05e.chunk.js",
+    "static/js/app.76b8fb83.chunk.js"
+  ]
+}
